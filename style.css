@@ -1,0 +1,16 @@
+
+ *{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+ }
+.navbar-brand{
+    color:green!important;
+    font-weight:bolder ;
+}
+
+.carousel{
+    display: flex;
+    height: 20%;
+    object-fit:contain ;
+}
